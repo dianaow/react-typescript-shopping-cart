@@ -9,6 +9,8 @@ Features
  - List of products currently in shopping cart, grouped by its name, quantity and total price, is displayed.
  - Responsive design
 
+![alt text](https://github.com/dianaow/react-typescript-shopping-cart/raw/master/demo.gif "Demo")
+
 ## Getting started - step by step
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
